@@ -1,0 +1,2 @@
+# Google-Data-Analytics--How-can-a-wellness-Company-Play-it-Smart
+This is the second case study among the three case study I  As the requirement for completion of the Google Data Analytics Certificate. I will analysis smart devise trends at Bellabeat a high-tech manufacturer of health-focused products for women study i will analyse smart device data to identify trends that will influence new marketing strategy
